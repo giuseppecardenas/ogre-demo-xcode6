@@ -14,3 +14,5 @@ I ran into some type mismatch errors with the OpenGL libraries that come in Mave
 ```
 
 Basically, if you run into similar errors, change the type in the declaration so it matches the one the linker is asking for.
+
+Paths are hardcoded since this was put together quickly, but you can use them as a reference.
